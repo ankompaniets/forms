@@ -73,7 +73,7 @@ class Contacts extends Component {
           labelText="Phone number:"
           type="text"
           id="phone"
-          placeholder="Enter your phone number"
+          placeholder="0633333333"
           value={phone}
           name="phone"
           onChange={onChange}
